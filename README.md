@@ -23,6 +23,10 @@ Feature scaling using StandardScaler
 Train-Test split
 Feature Engineering
 
+
+
+Dataset :https://www.kaggle.com/datasets/arezaei81/heartcsv
+
 Custom features created:
 
 BP_HR_Ratio
